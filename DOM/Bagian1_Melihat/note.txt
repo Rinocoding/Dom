@@ -1,0 +1,9 @@
+Apa itu dom ?....
+    -Dom adalah sebuah "tree" atau akar atau kerangka/struktur, contohnya  disebuah element html
+Bagian tertinggi dari dom ?...
+    -document
+Apa yang bisa dilakukan Dom ?...
+    -Mengubah bentuk html
+    -Mengubah/menambahkan 
+    -Mengakses struktur
+    

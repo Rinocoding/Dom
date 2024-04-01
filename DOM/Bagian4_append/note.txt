@@ -1,0 +1,9 @@
+----- akses perent/child pada element -----
+
+      1.nextsibling = adalah mengakses sejis  dari element yang kita jadikan utama
+                      contohnya  kita punya  "h1.nextsibling"  maka akan mencari h1 setelahnya
+      2.nextElementSiblings = mengakses elemet setelahnya
+      3.previsiusElementSiblings = Mengakses element sebelumnya
+      4.parentElement = Mengakses Elemet parent nya
+      5.children = Mengakses anak dari parent
+      6.parentElement[2] = angka 2 sebagai index

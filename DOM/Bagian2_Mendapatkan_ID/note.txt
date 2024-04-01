@@ -1,0 +1,26 @@
+Note : 
+
+Apa yang di dapat ?....
+//----- metode untuk menangkap -----
+
+getElementById() =  Menangkap elemet berdasarkan ID
+                    Tidak mengembalikan htmlCollection
+getElementbyTagName = Mengambil elemet berdasarkan Tag getElementbyTagName
+                    Mengambalikan htmlCollection
+getElementByclassName = Mengambil element berdasarkan class getElementbyTagName
+                    Mengambalikan htmlCollection
+querySelector('h1) = Mengambil h1 pertama
+
+querySelectorAll = Megambil seluruh yang didapatkan
+
+console.dir() = Membukan direktori
+
+
+//----- Mengubah ubah -----
+innerText = ""; = berfungsi untuk mengubah element 
+                  Perbedaan :
+                            1.tidak bisa membaca tag html
+                            
+innerHtml = ""; = berfungsi untuk mengubah elemet 
+                            1.memperlakukan sebagai Html dan bisa membaca tag html
+
